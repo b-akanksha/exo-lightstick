@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/exo-lightstick/static/css/main.11859c38.css",
+    "main.js": "/exo-lightstick/static/js/main.25857deb.js",
+    "static/js/453.082c2902.chunk.js": "/exo-lightstick/static/js/453.082c2902.chunk.js",
+    "static/media/exo.svg": "/exo-lightstick/static/media/exo.ad42ddfb597587456e651a12550b7d49.svg",
+    "index.html": "/exo-lightstick/index.html",
+    "main.11859c38.css.map": "/exo-lightstick/static/css/main.11859c38.css.map",
+    "main.25857deb.js.map": "/exo-lightstick/static/js/main.25857deb.js.map",
+    "453.082c2902.chunk.js.map": "/exo-lightstick/static/js/453.082c2902.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11859c38.css",
+    "static/js/main.25857deb.js"
+  ]
+}
